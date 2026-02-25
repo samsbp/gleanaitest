@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # If no argument is given, use current directory
-TARGET_DIR="${1:-.}"
+TARGET_DIR="/"
 
 # Check if directory exists
 if [ ! -d "$TARGET_DIR" ]; then
